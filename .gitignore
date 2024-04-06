@@ -3,3 +3,4 @@
 terraform.tfstate*
 *.tfvars
 secrets.txt
+Documentos_azure_init_service-principal.txt
